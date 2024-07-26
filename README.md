@@ -7,6 +7,7 @@ DB에 토큰값, 닉네임, 위치값을 넣어두고
 
 
 16.12 기준으로 개발되었기때문에 현 버전에서는 정상적으로 동작하지 않을수도 있습니다.
+![Untitled](https://github.com/user-attachments/assets/94dc9b32-ac92-4bcd-b1fd-5407cdceb99b)
 
 
 
